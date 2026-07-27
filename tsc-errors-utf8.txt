@@ -1,0 +1,3 @@
+﻿src/components/Contact.tsx(4,16): error TS2305: Module '"lucide-react"' has no exported member 'Github'.
+src/components/Contact.tsx(4,24): error TS2305: Module '"lucide-react"' has no exported member 'Linkedin'.
+src/components/Projects.tsx(4,24): error TS2305: Module '"lucide-react"' has no exported member 'Github'.
