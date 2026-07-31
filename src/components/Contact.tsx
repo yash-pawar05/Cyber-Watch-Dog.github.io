@@ -65,7 +65,7 @@ export function Contact() {
                                 </div>
                                 <div>
                                     <h4 className="text-sm text-gray-400 font-medium">GitHub Profile</h4>
-                                    <p className="text-white font-medium">@yash-pawar</p>
+                                    <p className="text-white font-medium">@yash-pawar05</p>
                                 </div>
                             </a>
 
