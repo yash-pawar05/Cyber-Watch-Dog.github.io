@@ -69,7 +69,7 @@ export function Hero() {
                             View Projects
                             <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                         </a>
-                        <a href="#" className="flex items-center gap-2 border border-white/20 bg-black/50 text-white px-6 py-3 rounded-md font-medium hover:bg-white/5 transition-all">
+                        <a href="https://drive.google.com/file/d/1DTp-s9D1vN-WV7IoCW-i28iJpcrNKGFy/view?usp=sharing" className="flex items-center gap-2 border border-white/20 bg-black/50 text-white px-6 py-3 rounded-md font-medium hover:bg-white/5 transition-all">
                             <Download className="w-4 h-4" />
                             Resume
                         </a>
