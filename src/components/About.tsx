@@ -32,9 +32,7 @@ export function About() {
                             <div className="absolute -inset-1 bg-gradient-to-r from-primary to-blue-600 rounded-xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200" />
                             <div className="relative glass-card rounded-xl p-8 flex flex-col items-center border border-white/10">
                                 <div className="w-40 h-40 rounded-full bg-gray-800 border-2 border-primary/50 flex items-center justify-center overflow-hidden mb-6 relative">
-                                    <User className="w-16 h-16 text-gray-500" />
-                                    {/* Replace with actual image */}
-                                    {/* <img src="/profile.jpg" alt="Profile" className="w-full h-full object-cover" /> */}
+                                    <img src="/profile.jpg" alt="Profile" className="w-full h-full object-cover" />
                                 </div>
                                 <h3 className="text-xl font-bold text-white mb-2">{portfolioData.hero.name}</h3>
                                 <p className="text-gray-400 text-center text-sm">Offensive Security & Web Development</p>
