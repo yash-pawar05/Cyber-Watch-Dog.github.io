@@ -95,8 +95,8 @@ export const portfolioData = {
         yearsExperience: 3 // Update according to reality
     },
     contact: {
-        email: "yash.pawar@example.com",
-        github: "https://github.com/yash-pawar",
-        linkedin: "https://linkedin.com/in/yash-pawar"
+        email: "yp400215@gmail.com",
+        github: "https://github.com/yash-pawar05",
+        linkedin: "https://www.linkedin.com/in/yash-pawar-b361182b2"
     }
 };
