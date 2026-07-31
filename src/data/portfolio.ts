@@ -48,7 +48,7 @@ export const portfolioData = {
                 "Host controls",
                 "Responsive UI"
             ],
-            liveDemo: "https://costream.onrender.com/", // Add link
+            liveDemo: "https://costream.onrender.com", // Add link
             github: "https://github.com/yash-pawar05/Costream", // Add link
             image: "/placeholder-costream.jpg"
         }
