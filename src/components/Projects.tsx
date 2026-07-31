@@ -38,7 +38,7 @@ export function Projects() {
                             <div className="h-64 bg-gray-800 relative overflow-hidden flex items-center justify-center">
                                 <div className="absolute inset-0 bg-gradient-to-t from-[#0d1117] via-transparent to-transparent opacity-80 z-10" />
                                 <MonitorPlay className="w-20 h-20 text-gray-700 group-hover:text-primary/50 transition-colors duration-500" />
-                                {/* <img src={project.image} alt={project.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" /> */}
+                                { <img src={project.image} alt={project.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" /> }
                             </div>
 
                             <div className="p-8 flex-1 flex flex-col">
