@@ -38,7 +38,7 @@ function Counter({ from, to, duration = 2 }: { from: number; to: number; duratio
 
 export function Stats() {
     const stats = [
-        { label: "Projects Completed", value: portfolioData.stats.projectsCompleted: <ShieldCheck className="w-8 h-8 mx-auto mb-4 text-primary" /> },
+        { label: "Projects Completed", value: portfolioData.stats.projectsCompleted, icon: <ShieldCheck className="w-8 h-8 mx-auto mb-4 text-primary" /> },
         { label: "Bug Bounty Reports", value: portfolioData.stats.bugBounties, icon: <Bug className="w-8 h-8 mx-auto mb-4 text-red-400" /> },
         { label: "Hall of Fame Recognitions", value: portfolioData.stats.hallOfFames, icon: <Award className="w-8 h-8 mx-auto mb-4 text-yellow-400" /> },
         { label: "Certifications", value: portfolioData.stats.certifications, icon: <BadgeCheck className="w-8 h-8 mx-auto mb-4 text-blue-400" /> },
