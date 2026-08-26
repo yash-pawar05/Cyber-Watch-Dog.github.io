@@ -88,11 +88,11 @@ export const portfolioData = {
         }
     ],
     stats: {
-        projectsCompleted: 15, // Update according to reality
-        bugBounties: 20, // Update according to reality
-        hallOfFames: 5, // Update according to reality
-        certifications: 3, // Update according to reality
-        yearsExperience: 3 // Update according to reality
+        projectsCompleted: 1, // Update according to reality
+        bugBounties: 2, // Update according to reality
+        hallOfFames: 2, // Update according to reality
+        certifications: 2, // Update according to reality
+        yearsExperience: 2 // Update according to reality
     },
     contact: {
         email: "yp400215@gmail.com",
